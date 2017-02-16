@@ -1,0 +1,59 @@
+
+.carousel1 li { float: left; margin: 0px; font: 31px/31px 'Open Sans', sans-serif; color:  #47494c; text-transform: uppercase; padding-top: 16px !important; overflow:  hidden; ; }
+
+.carousel1 li p { font-family: 'Open Sans', sans-serif; padding-top: 0; line-height: 23px; margin: 17px 0 14px; text-transform: none; }
+
+.carousel1 li a { z-index: 999; position: relative; font-weight: normal; }
+
+.carousel1 li span { color: #616161; display: block; font-size: 23px; font-weight: 700; margin: 30px 0 8px; }
+
+.carousel1 li em { color: #616161; font-family: 'Open Sans', sans-serif; font-size: 18px; font-style: normal; font-weight: 500; margin-bottom: 8px; text-transform: none; }
+
+.carousel1 { cursor: default !important; }
+
+a.prev1 { background: url("../images/icons/prevnext.png") no-repeat scroll left bottom #CA6666; display: block; bottom: 0; float: left; width: 30px; height: 30px; margin-top: 2px; position: absolute; transition: 0s ease; -o-transition: 0s ease; -webkit-transition: 0s ease; z-index: 1; }
+
+.prev1:hover, .next1:hover { opacity: 0.2; transition: 0s ease; -o-transition: 0s ease; -webkit-transition: 0s ease; -webkit-transition: 0s ease; }
+
+a.next1 { background: url("../images/icons/prevnext.png") no-repeat scroll right bottom #CA6666; display: block; bottom: 0; float: left; margin-left: 31px; width:30px; margin-top: 2px; position: absolute; height: 30px; z-index: 1; }
+
+a.prev2 { background: url("../images/icons/prevnext.png") no-repeat scroll left bottom #CA6666; display: block; float: right; width: 30px; height: 30px; margin-top: 2px; }
+
+.prev2:hover, .next2:hover { opacity: 0.2; transition: 0s ease; -o-transition: 0s ease; -webkit-transition: 0s ease; -webkit-transition: 0s ease; }
+
+a.next2 { background: url("../images/icons/prevnext.png") no-repeat scroll right bottom #CA6666; display: block; float: right; margin-left: 1px; width:30px; margin-top: 2px; height: 30px; }
+
+.pad2 { padding: 0 !important; }
+
+.carousel1 li img { width: auto !important; }
+
+.carousel2 li { float: left; margin: 0px; padding-top: 7px; }
+
+.carousel2 li:first-child { }
+
+.carousel2 > li { font-family: Georgia, "Times New Roman", Times, serif; font-size: 19px; line-height: normal; }
+
+.carousel2 li a { float:  right; display:  block; font-weight: normal; margin-top: 46px; color: #CA6666; }
+
+.carousel2 li a:hover { color:  #000; }
+
+.carousel2 li img { margin-right: 12px; margin-top: -2px; }
+
+.carousel2 { cursor: default !important; }
+
+.pad2 { padding: 0 !important; }
+
+.carousel1 li img { width: auto !important; }
+ @media only screen and (max-width: 767px) {
+ .carousel1 li {
+ margin-left: 0;
+}
+ .carousel-div {
+ margin: 0 !important;
+}
+}
+ @media only screen and (max-width: 479px) {
+ .carousel1 li {
+ margin-left: 0;
+}
+}

@@ -1,0 +1,115 @@
+
+/*=========================================================================
+ color 1
+========================================================================= */
+
+.color-1 { background: url("../images/blue_bg.png") repeat scroll 0 0 #7F8CAA !important; border-top: 1px solid rgba(255, 255, 255, 0.3) !important; }
+
+.color-1 h3, .color-1 p, .color-1 .text2 a, .color-1 .extra_wrapper { color: #FFFFFF; text-shadow: 0 -1px 0 rgba(0, 0, 0, 0.2); overflow: hidden; }
+
+.color-1 .heading { border-bottom: 1px solid rgba(0, 0, 0, 0.07); }
+
+.color-1 .heading:after { background-color: #4ED3FF; }
+
+.color-inner-1 { background: url("../images/tr-dark.png") repeat scroll 0 0 transparent !important; border-bottom: 1px solid rgba(0, 0, 0, 0.1); border-top: 1px solid rgba(0, 0, 0, 0.1); margin: 61px 0; padding: 0; position: relative; width: 100%; }
+
+
+.color-1 .team-leader, .color-1 .team-text2, .color-1 .notification { background: none repeat scroll 0 0 #6F7C9A; border: 1px solid #8F9CBA; }
+.color-1 h2 { color: #FFFFFF; }
+.color-1 p, .color-1 .link-name, .color-1 .team-contact-info li, .color-1 .team-contact-info li a { color: #E0EDFF; }
+.color-1 .team-contact-info .socialmedia-widget, .color-1 .team-text2 .socialmedia-widget { border-bottom: 1px solid #8F9CBA; border-top: 1px solid #8F9CBA; }
+.color-1 .team-text2 .link-name { border-bottom: 1px solid #8F9CBA; }
+
+
+
+
+
+/*=========================================================================
+ color 2
+========================================================================= */
+.color-2 { background: none repeat scroll 0 0 #F7FAFF !important; border-top: 1px solid rgba(255, 255, 255, 0.3) !important; }
+
+/*=========================================================================
+ color 3
+========================================================================= */
+.color-3 { background: url("../images/purple_bg.png") repeat scroll 0 0 #a58bd6 !important; border-top: 1px solid rgba(255, 255, 255, 0.3) !important; }
+
+.color-3 h3, .color-3 p, .color-3 .text2 a, .color-3 .extra_wrapper { color: #FFFFFF; text-shadow: 0 -1px 0 rgba(0, 0, 0, 0.2); overflow: hidden; }
+
+.color-3 .heading { border-bottom: 1px solid rgba(0, 0, 0, 0.07); }
+
+.color-3 .heading:after { background-color: #e7b9ff; }
+
+.color-3 .hi-icon-effect-1 .hi-icon { background: none repeat scroll 0 0 #A58BD6; color: #FFFFFF; }
+
+.color-3 .hi-icon-effect-1 .hi-icon:after { box-shadow: 0 0 0 4px #A58BD6; }
+
+.color-3 .pro-kit .text2:after { background: none repeat scroll 0 0 #e7b9ff; }
+
+.color-3 .progress-info.progress-striped .bar { background-color: #e7b9ff; }
+
+
+.color-3 .team-leader, .color-3 .team-text2, .color-3 .notification { background: none repeat scroll 0 0 #957BC6; border: 1px solid #AC92DD; }
+.color-3 h2 { color: #FFFFFF; }
+.color-3 p, .color-3 .link-name, .color-3 .team-contact-info li, .color-3 .team-contact-info li a { color: #F5DBFF; }
+.color-3 .team-contact-info .socialmedia-widget, .color-3 .team-text2 .socialmedia-widget { border-bottom: 1px solid #A48AD5; border-top: 1px solid #A48AD5; }
+.color-3 .team-text2 .link-name { border-bottom: 1px solid #A48AD5; }
+
+
+/*=========================================================================
+ color 4
+========================================================================= */
+.color-4 { background: url("../images/orange_bg.png") repeat scroll 0 0 #ee8030 !important; border-top: 1px solid rgba(255, 255, 255, 0.3) !important; }
+
+.color-4 h3, .color-4 p, .color-4 .text2 a, .color-4 .extra_wrapper { color: #FFFFFF; text-shadow: 0 -1px 0 rgba(0, 0, 0, 0.2); overflow: hidden; }
+
+.color-4 .heading { border-bottom: 1px solid rgba(0, 0, 0, 0.07); }
+
+.color-4 .heading:after { background-color: #ffd087; }
+
+.color-4 .hi-icon-effect-1 .hi-icon { background: none repeat scroll 0 0 #ee8030; color: #FFFFFF; }
+
+.color-4 .hi-icon-effect-1 .hi-icon:after { box-shadow: 0 0 0 4px #ee8030; }
+
+.color-4 .pro-kit .text2:after { background: none repeat scroll 0 0 #FFD087; }
+
+.color-4 .progress-info.progress-striped .bar { background-color: #ffd087; }
+
+
+.color-4 .team-leader, .color-4 .team-text2, .color-4 .notification { background: none repeat scroll 0 0 #DE7020; border: 1px solid #FE9040; }
+.color-4 h2 { color: #FFFFFF; }
+.color-4 p, .color-4 .link-name, .color-4 .team-contact-info li, .color-4 .team-contact-info li a { color: #ffe6b1; }
+.color-4 .team-contact-info .socialmedia-widget, .color-4 .team-text2 .socialmedia-widget { border-bottom: 1px solid #FE9040; border-top: 1px solid #FE9040; }
+.color-4 .team-text2 .link-name { border-bottom: 1px solid #FE9040; }
+
+
+
+
+/*=========================================================================
+ color 5
+========================================================================= */
+.color-5 { background: url("../images/green_bg.png") repeat scroll 0 0 #23c1c4 !important; border-top: 1px solid rgba(255, 255, 255, 0.3) !important; }
+
+.color-5 h3, .color-5 p, .color-5 .text2 a, .color-5 .extra_wrapper { color: #FFFFFF; text-shadow: 0 -1px 0 rgba(0, 0, 0, 0.2); overflow: hidden; }
+
+.color-5 .heading { border-bottom: 1px solid rgba(0, 0, 0, 0.07); }
+
+.color-5 .heading:after { background-color: #63f1f3; }
+
+.color-5 .hi-icon-effect-1 .hi-icon { background: none repeat scroll 0 0 #23c1c4; color: #FFFFFF; }
+
+.color-5 .hi-icon-effect-1 .hi-icon:after { box-shadow: 0 0 0 4px #23c1c4; }
+
+.color-5 .pro-kit .text2:after { background: none repeat scroll 0 0 #63f1f3; }
+
+.color-5 .progress-info.progress-striped .bar { background-color: #63F1F3; }
+
+
+.color-5 .team-leader, .color-5 .team-text2, .color-5 .notification { background: none repeat scroll 0 0 #0DABAE; border: 1px solid #1FBDC0; }
+.color-5 h2 { color: #FFFFFF; }
+.color-5 p, .color-5 .link-name, .color-5 .team-contact-info li, .color-5 .team-contact-info li a { color: #88F7F7; }
+.color-5 .team-contact-info .socialmedia-widget, .color-5 .team-text2 .socialmedia-widget { border-bottom: 1px solid #1FBDC0; border-top: 1px solid #1FBDC0; }
+.color-5 .team-text2 .link-name { border-bottom: 1px solid #1FBDC0; }
+
+
+
