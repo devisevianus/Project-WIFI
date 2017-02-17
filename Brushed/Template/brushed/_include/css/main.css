@@ -920,7 +920,7 @@ nav#menu #menu-nav li a:hover {
 }
 
 #contact-form p {
-	margin-bottom: 1px;	
+	margin-bottom: 10px;	
 }
 
 #contact-form input,
@@ -987,6 +987,122 @@ nav#menu #menu-nav li a:hover {
 	margin-top: 20px;
 	color: #FFFFFF;
 }
+
+
+/* ==================================================
+   Form Section
+================================================== */
+
+#kata{
+	margin-left:370px;
+}
+
+#form_gender{	
+	margin-left:370px;
+	width:50%;
+	background-color:#26292E;
+	color:white;
+	border-color: #26292E;
+	height:30%;
+}
+
+.form-details h3 {
+	color: #FFFFFF;
+    font-size: 24px;
+    font-weight: 300;
+    margin-bottom: 30px;
+	line-height: 1em;
+    text-transform: uppercase;
+}
+
+.form-details ul {
+	margin: 0;
+	padding: 0;
+	list-style: none;	
+}
+
+.form-details ul li {
+	margin: 0 0 20px;
+	line-height: 28px;
+	padding: 0;	
+}
+
+#form-form {
+	margin-bottom: 0;	
+}
+
+#form-form p {
+	margin-bottom: 20px;	
+}
+
+#form-form input,
+#form-form textarea {
+    border: none;
+	-webkit-border-radius: 0;
+	-moz-border-radius: 0;
+    border-radius: 0;
+	
+    -webkit-box-shadow: none;
+	-moz-box-shadow: none;
+	box-shadow: none;
+	
+	background: #26292E;
+    color: #FFFFFF;
+    font-size: 16px;
+    height: auto;
+    padding: 15px;
+	margin: 0;
+	
+    resize: none;
+}
+
+#form-form input {
+    width: 50%;
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	box-sizing: border-box;
+	margin-left:370px;
+}
+
+#form-form textarea {
+    width: 50%;
+	margin-left:370px;
+	resize: vertical;
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	box-sizing: border-box;
+}
+
+#form-form .submit {
+    background: #3C3F45;
+    color: #23262C;
+    cursor: pointer;
+    display: inline-block;
+    font-size: 18px;
+    font-weight: 500;
+    padding: 16px 40px;
+    text-align: center;
+    vertical-align: middle;
+    width: auto;
+	margin-top: 30px;
+	margin-left:520px;
+	
+	-webkit-transition: background 0.1s linear 0s, color 0.1s linear 0s;	
+	   -moz-transition: background 0.1s linear 0s, color 0.1s linear 0s;
+		 -o-transition: background 0.1s linear 0s, color 0.1s linear 0s;
+		    transition: background 0.1s linear 0s, color 0.1s linear 0s;
+}
+
+#form-form .submit:hover {
+    background: #DE5E60;
+    color: #FFFFFF;
+}
+
+#response {
+	margin-top: 20px;
+	color: #FFFFFF;
+}
+
 
 
 /* ==================================================
